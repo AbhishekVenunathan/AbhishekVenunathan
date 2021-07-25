@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <p align="center"><img src="https://i.pinimg.com/originals/28/33/f3/2833f34cc9e29d5a3df4e1a06f8c7f16.gif" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekVenunathan)](https://github.com/AbhishekVenunathan/AbhishekVenunathan)
 
 <!--
 **AbhishekVenunathan/AbhishekVenunathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
