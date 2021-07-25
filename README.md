@@ -2,6 +2,8 @@
 [![Header](https://s3-ap-southeast-1.amazonaws.com/tv-prod/member/photo/6409998-large.jpg "Header")](https://github.com/AbhishekVenunathan/)
 !-->
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekVenunathan&show_icons=true&custom_title=GitHub%20Stats&bg_color=141414&title_color=FFD300&icon_color=FFD300&text_color=F5F5F5&border_color=FFD300&count_private=true&include_all_commits=true&cache_seconds=86400)]
+
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhishekVenunathan&show_icons=true&custom_title=GitHub%20Stats&bg_color=141414&title_color=FFD300&icon_color=FFD300&text_color=F5F5F5&border_color=FFD300&count_private=true&include_all_commits=true&cache_seconds=86400" />
 </p>
