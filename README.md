@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekVenunathan&count_private=true&show_icons=true&cache_seconds=86400&include_all_commits=true&custom_title=GitHub%20Stats&bg_color=141414&title_color=FFD300&icon_color=FFD300&text_color=F5F5F5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekVenunathan&count_private=true&show_icons=true&cache_seconds=86400&include_all_commits=true&custom_title=GitHub%20Stats&bg_color=141414&title_color=FFD300&icon_color=FFD300&text_color=F5F5F5&border_color=FFD300" />
 </p>
 
 <!--
