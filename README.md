@@ -7,7 +7,10 @@
 
 ## Skills
 
-![](https://img.shields.io/badge/backend-nodejs-informational?style=flat&logo=Node.js&labelColor=F5F5F5&color=339933&link=https://nodejs.org/en/&link=https://nodejs.org/en/)
+[![](https://img.shields.io/badge/backend-Node.js-informational?style=flat&logo=Node.js&labelColor=F5F5F5&color=339933)](https://nodejs.org/en/)
+[![](https://img.shields.io/badge/frontend-HTML5-informational?style=flat&logo=HTML5&labelColor=F5F5F5&color=E34F26)](https://en.wikipedia.org/wiki/HTML5)
+[![](https://img.shields.io/badge/database-MongoDB-informational?style=flat&logo=MongoDB&labelColor=F5F5F5&color=47A248)](https://www.mongodb.com/)
+[![](https://img.shields.io/badge/process%20manager-PM2-informational?style=flat&logo=PM2&logoColor=2B037A&labelColor=F5F5F5&color=2B037A)](https://pm2.keymetrics.io/)
 
 
 ##
