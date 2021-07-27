@@ -9,6 +9,7 @@
 
 [![](https://img.shields.io/badge/environment-Node.js-informational?style=flat&logo=Node.js&logoColor=339933&labelColor=F5F5F5&color=339933)](https://nodejs.org/en/about/)
 [![](https://img.shields.io/badge/framework-Express-informational?style=flat&logo=Express&logoColor=000000&labelColor=F5F5F5&color=000000)](https://expressjs.com/)
+[![](https://img.shields.io/badge/library-Socket.io-informational?style=flat&logo=Socket.io&logoColor=010101&labelColor=F5F5F5&color=010101)](https://socket.io/)
 
 ## Frontend
 
