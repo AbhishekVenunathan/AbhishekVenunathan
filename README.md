@@ -23,7 +23,8 @@
 
 ## Process Manager
 
-[![](https://img.shields.io/badge/load%20balancer-PM2-informational?style=flat&logo=PM2&logoColor=2B037A&labelColor=F5F5F5&color=2B037A)](https://pm2.keymetrics.io/)
+[![](https://img.shields.io/badge/production-PM2-informational?style=flat&logo=PM2&logoColor=2B037A&labelColor=F5F5F5&color=2B037A)](https://pm2.keymetrics.io/)
+[![](https://img.shields.io/badge/development-Nodemon-informational?style=flat&logo=Nodemon&logoColor=76D04B&labelColor=F5F5F5&color=76D04B)](https://nodemon.io/)
 
 ## Web Server
 
