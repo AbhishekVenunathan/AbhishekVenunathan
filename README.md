@@ -18,13 +18,13 @@
 
 ## Database
 
-[![](https://img.shields.io/badge/database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=47A248&labelColor=F5F5F5&color=47A248)](https://www.mongodb.com/what-is-mongodb)
+[![](https://img.shields.io/badge/nosql-MongoDB-informational?style=flat&logo=MongoDB&logoColor=47A248&labelColor=F5F5F5&color=47A248)](https://www.mongodb.com/what-is-mongodb)
 [![](https://img.shields.io/badge/cache-Redis-informational?style=flat&logo=Redis&logoColor=DC382D&labelColor=F5F5F5&color=DC382D)](https://redis.io/topics/introduction)
 [![](https://img.shields.io/badge/search-Elasticsearch-informational?style=flat&logo=Elasticsearch&logoColor=005571&labelColor=F5F5F5&color=005571)](https://redis.io/topics/introductionhttps://www.elastic.co/what-is/elasticsearch)
 
 ## Tools
 
-[![](https://img.shields.io/badge/ODM-Mongoose-informational?style=flat&logo=npm&logoColor=CB3837&labelColor=F5F5F5&color=CB3837)](https://mongoosejs.com/)
+[![](https://img.shields.io/badge/odm-Mongoose-informational?style=flat&logo=npm&logoColor=CB3837&labelColor=F5F5F5&color=CB3837)](https://mongoosejs.com/)
 [![](https://img.shields.io/badge/security-Amazon%20IAM-informational?style=flat&logo=Amazon%20AWS&logoColor=232F3E&labelColor=F5F5F5&color=232F3E)](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
 [![](https://img.shields.io/badge/storage-Amazon%20S3-informational?style=flat&logo=Amazon%20S3&logoColor=569A31&labelColor=F5F5F5&color=569A31)](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
 [![](https://img.shields.io/badge/sms-Amazon%20SNS-informational?style=flat&logo=Amazon%20AWS&logoColor=232F3E&labelColor=F5F5F5&color=232F3E)](https://docs.aws.amazon.com/sns/latest/dg/welcome.html)
