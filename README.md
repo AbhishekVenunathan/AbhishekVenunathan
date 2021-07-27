@@ -28,7 +28,7 @@
 [![](https://img.shields.io/badge/security-Amazon%20IAM-informational?style=flat&logo=Amazon%20AWS&logoColor=232F3E&labelColor=F5F5F5&color=232F3E)](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
 [![](https://img.shields.io/badge/storage-Amazon%20S3-informational?style=flat&logo=Amazon%20S3&logoColor=569A31&labelColor=F5F5F5&color=569A31)](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
 [![](https://img.shields.io/badge/sms-Amazon%20SNS-informational?style=flat&logo=Amazon%20AWS&logoColor=232F3E&labelColor=F5F5F5&color=232F3E)](https://docs.aws.amazon.com/sns/latest/dg/welcome.html)
-[![](https://img.shields.io/badge/sms-Twilio-informational?style=flat&logo=TwiliologoColor=F22F46&labelColor=F5F5F5&color=F22F46)](https://www.twilio.com/messaging)
+[![](https://img.shields.io/badge/sms-Twilio-informational?style=flat&logo=Twilio&logoColor=F22F46&labelColor=F5F5F5&color=F22F46)](https://www.twilio.com/messaging)
 [![](https://img.shields.io/badge/email-Amazon%20SES-informational?style=flat&logo=Amazon%20AWS&logoColor=232F3E&labelColor=F5F5F5&color=232F3E)](https://docs.aws.amazon.com/ses/latest/dg/Welcome.html)
 [![](https://img.shields.io/badge/email-Nodemailer-informational?style=flat&logo=npm&logoColor=CB3837&labelColor=F5F5F5&color=CB3837)](https://nodemailer.com/about/)
 [![](https://img.shields.io/badge/payment-Razorpay-informational?style=flat&logo=Razorpay&logoColor=0C2451&labelColor=F5F5F5&color=0C2451)](https://razorpay.com/)
