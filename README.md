@@ -60,7 +60,7 @@
 [![](https://img.shields.io/badge/hosting-Heroku-informational?style=flat&logo=Heroku&logoColor=430098&labelColor=F5F5F5&color=430098)](https://www.heroku.com/about)
 
 ## Editor
-[![](https://img.shields.io/badge/source%20code-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC&labelColor=F5F5F5&color=007ACC)](https://code.visualstudio.com/docs)
+[![](https://img.shields.io/badge/coding-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC&labelColor=F5F5F5&color=007ACC)](https://code.visualstudio.com/docs)
 
 ##
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
