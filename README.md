@@ -70,10 +70,10 @@
 
 ## Contact
 
-* [Gmail](abhishek.venunathan@gmail.com)
+* [Gmail](https://mail.google.com/mail/u/0/?fs=1&to=abhishek.venunathan@gmail.com&su=Reaching%20out%20from%20GitHub&tf=cm)
 * [Instagram](https://www.instagram.com/sarcasticmartyr/)
 
-<--
+<!--
 **AbhishekVenunathan/AbhishekVenunathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
