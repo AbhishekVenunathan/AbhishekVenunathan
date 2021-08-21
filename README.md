@@ -69,8 +69,11 @@
 </p>
 
 ## Contact
-[![email](https://img.shields.io/badge/coding-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC&labelColor=F5F5F5&color=007ACC)](https://code.visualstudio.com/docs)
 
+* [Gmail](abhishek.venunathan@gmail.com)
+* [Instagram](https://www.instagram.com/sarcasticmartyr/)
+
+<--
 **AbhishekVenunathan/AbhishekVenunathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
