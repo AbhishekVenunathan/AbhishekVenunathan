@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile 👺
 
-## Skills
+## Technical skills
 
 ### Backend
 
@@ -61,7 +61,7 @@
 
 [![](https://img.shields.io/badge/coding-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC&labelColor=F5F5F5&color=007ACC)](https://code.visualstudio.com/docs)
 
-## Activity
+## GitHub activities
 
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhishekVenunathan&show_icons=true&custom_title=GitHub%20Stats&bg_color=141414&title_color=FFD300&icon_color=FFD300&text_color=F5F5F5&border_color=FFD300&count_private=true&include_all_commits=true&cache_seconds=86400" />
