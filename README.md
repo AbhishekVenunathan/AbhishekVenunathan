@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile 👺
 
-## Tech stack
+## Skills
 
 ### Backend
 
